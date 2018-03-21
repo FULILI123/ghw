@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.swiper-container {
+  width: 100%;
+  height: 29.8rem;
+}
+
+.fu-l {
+  width: 0.56rem;
+  height: 0.57rem;
+  position: fixed;
+  top: 0;
+  left: 0.7rem;
+}
+
+.fu-l img {
+  width: 100%;
+  height: 100%;
+}
+
+/*# sourceMappingURL=1.css.map */
